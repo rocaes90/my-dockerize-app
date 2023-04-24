@@ -1,3 +1,15 @@
+# Personal workshop for Docker
+
+##### This repository is a PoC on how Docker works
+
+It does not matter if Docker is part of our daily process, sometimes we don't have the space to test and play with containers.
+
+So, because of that, I create this workshop to promote playing with Docker
+
+## PoC
+
+---
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
