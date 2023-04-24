@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React with Camacho!!!
+          Learn React with Roiner Camacho Esquivel!!!
         </a>
       </header>
     </div>
